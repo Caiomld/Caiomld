@@ -1,8 +1,6 @@
 <img width="6611" height="1234" alt="image" src="https://github.com/user-attachments/assets/623bb7fb-2b42-41c7-9a52-5081d8f6d403" />
 
 <h1 align="center">Hey there. I'm Caio!♾️ </h1>
-<h3 align="center">Saying "thank you" in every conversations with AIs 'cause what if..... </h3>
-
 <p align="center">
   🧪 a "semi-experimental" guy | ⚛️ physics and chemistry | 🧬 nanomaterials, transistors and biosensing | 🧠 math enjoyer
 </p>
